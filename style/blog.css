@@ -3,19 +3,28 @@ h1{
     font-style: italic;
     background-color: aqua;
     margin-bottom: 10px;
+    border-radius: 10px;
+    border: 5px solid tomato;
+    text-align: center;
 }
 h2{
     color: rgb(251, 220, 251);
     font-size: xx-large;
     background-color:darkgoldenrod ;
+    border: 3px solid blueviolet;
+    border-radius: 5px;
 }
 p{
-    color: darkorange;
+    color: rgb(83, 48, 4);
     font-size: x-large;
     background-color: aqua;
+    border-radius: 10px ;
+    border: 5px solid blue;
+    
 }
 ul{
     color: brown;
     background-color: burlywood;
     font-size: x-large;
+    border-radius: 5px;
 }

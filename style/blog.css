@@ -4,6 +4,11 @@ h1{
     background-color: aqua;
     margin-bottom: 10px;
 }
+h2{
+    color: rgb(251, 220, 251);
+    font-size: xx-large;
+    background-color:darkgoldenrod ;
+}
 p{
     color: darkorange;
     font-size: x-large;
